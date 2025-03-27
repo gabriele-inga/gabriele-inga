@@ -10,6 +10,6 @@
 <a href="https://discord.gg/discord.gg/5fwttQNX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/5fwttQNX" height="30" width="40" /></a>
 </p>
 
-<p float="right">
-  <img src="./download.jpg" width="300">
+<p>
+  <img align="right" src="./download.jpg" width="300">
 </p>
