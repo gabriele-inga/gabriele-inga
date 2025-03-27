@@ -1,9 +1,9 @@
 # Hi, I'm Gabriele 
 
-## Languages
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,c)](https://skillicons.dev)
 
-## Social
+## Socials
 <a href="https://instagram.com/gabri_inga" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
 </a>
