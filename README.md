@@ -1,7 +1,7 @@
 # Hi, I'm Gabriele 👋
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,c)](https://skillicons.dev)
 
 
 <h3 align="left">Social:</h3>
