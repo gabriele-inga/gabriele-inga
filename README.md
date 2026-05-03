@@ -1,7 +1,7 @@
 # Hi, I'm Gabriele 
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,c,py,sql)](https://skillicons.dev)
 
 ## Socials
 <a href="https://instagram.com/gabri_inga" target="blank">
